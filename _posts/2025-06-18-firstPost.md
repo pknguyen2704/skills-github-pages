@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "First Post"
+date: 2025-06-18
 ---
 
 # 🧠 ML Project: Predicting House Prices
